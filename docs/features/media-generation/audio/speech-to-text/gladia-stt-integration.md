@@ -97,7 +97,7 @@ For more troubleshooting, see the [Audio Troubleshooting Guide](/troubleshooting
 
 | Feature | Gladia | OpenAI Whisper | Local Whisper |
 |---------|--------|----------------|---------------|
-| **Cost** | Per-minute pricing (10h free / month)| Per-minute pricing | Free |
+| **Cost** | Per-minute pricing<br>(10h free / month)| Per-minute pricing | Free |
 | **Privacy** | Audio sent to Gladia | Audio sent to OpenAI | Audio stays local |
 | **Language Detection** | Automatic | Automatic | Manual or auto |
 | **GPU Required** | No | No | Recommended |
