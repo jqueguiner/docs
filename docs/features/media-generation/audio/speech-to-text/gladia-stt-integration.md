@@ -95,12 +95,12 @@ For more troubleshooting, see the [Audio Troubleshooting Guide](/troubleshooting
 
 ## Comparison with Other STT Options
 
-| Feature | Gladia | OpenAI Whisper | Mistral Voxtral | Local Whisper |
-|---------|--------|----------------|-----------------|---------------|
-| **Cost** | Per-minute pricing | Per-minute pricing | Per-minute pricing | Free |
-| **Privacy** | Audio sent to Gladia | Audio sent to OpenAI | Audio sent to Mistral | Audio stays local |
-| **Language Detection** | Automatic | Automatic | Automatic | Manual or auto |
-| **GPU Required** | No | No | No | Recommended |
+| Feature | Gladia | OpenAI Whisper | Local Whisper |
+|---------|--------|----------------|---------------|
+| **Cost** | Per-minute pricing (10h free / month)| Per-minute pricing | Free |
+| **Privacy** | Audio sent to Gladia | Audio sent to OpenAI | Audio stays local |
+| **Language Detection** | Automatic | Automatic | Manual or auto |
+| **GPU Required** | No | No | Recommended |
 
 ## Cost Considerations
 
