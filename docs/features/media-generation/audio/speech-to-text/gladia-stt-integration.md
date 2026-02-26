@@ -107,5 +107,5 @@ For more troubleshooting, see the [Audio Troubleshooting Guide](/troubleshooting
 Gladia offers per-minute pricing for audio transcription. Check [Gladia's pricing page](https://www.gladia.io/pricing) for current rates.
 
 :::tip
-For free STT, use **Local Whisper** (the default) or the browser's **Web API** for basic transcription.
+Gladia offers a 10h free per month renewable every month when registering on [Gladia's Website](https://www.gladia.io/).
 :::
